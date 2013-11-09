@@ -1,3 +1,0 @@
-aulagit
-=======
-Aprendendo o git
